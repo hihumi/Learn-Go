@@ -27,7 +27,6 @@ func main() {
 		if quit == "q" {
 			break
 		}
-
 	}
 	fmt.Printf("the end\n")
 }
