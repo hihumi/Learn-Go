@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 	var n int
 
-	fmt.Printf("Please Enter a integer.\n>> ")
+	fmt.Printf("Please Enter an integer.\n>> ")
 
 	fmt.Scanf("%d", &n)
 
